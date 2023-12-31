@@ -7,6 +7,6 @@ Benim Sunucum : discord.gg/naz
 
 Nasıl Başlatırım :
 
-1. ⭐ start.bat başlat.
+1. ⭐ `start.bat` başlat.
 2. ⭐ Projeme yıldız ver
   
