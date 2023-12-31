@@ -1,1 +1,1 @@
-*İtem Satış Tool v0.1
+**İtem Satış Tool v0.1**
