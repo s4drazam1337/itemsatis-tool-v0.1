@@ -8,5 +8,5 @@
 Nasıl Başlatırım :
 
 1. ⭐ `start.bat` başlat.
-2. ⭐ Projeme yıldız ver
+2. ⭐ Projeme yıldız ver.
   
