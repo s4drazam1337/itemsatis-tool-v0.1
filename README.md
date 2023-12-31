@@ -1,3 +1,1 @@
-hi barbie
-
-* 123
+*İtem Satış Tool v0.1
