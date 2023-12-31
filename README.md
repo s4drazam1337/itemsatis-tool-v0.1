@@ -6,7 +6,8 @@ Telegram Adresim : sadrazam1337
 Benim Sunucum : discord.gg/naz
 
 Nasıl Başlatırım :
-
+```d```
+``d``
 1. ⭐ `start.bat` başlat.
 2. ⭐ Projeme yıldız ver
   
