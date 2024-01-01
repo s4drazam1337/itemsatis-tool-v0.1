@@ -32,7 +32,7 @@ class ItemsatisOneCikarmaBot:
     def highlight_ad(self, ad):
         try:
             cookies = {
-                'PHPSESSID': 'dltmb8aa1b6ichgis60raabkcp',
+                'PHPSESSID': 'ayarla',
             }
 
             headers = {
